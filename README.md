@@ -1,6 +1,11 @@
 # Fake news detector
 Fake news detector in Python. Machine learning project using Flask API.
 
+<p align="center">
+      <img src="https://github.com/LukaszMikol/fake_news_detector/blob/master/images/detector.png" alt="Detector localhost" title="Detector localhost">
+</p>
+<br>
+
 ## Data from Kaggle
 <p>Link: https://www.kaggle.com/c/fake-news/data</p>
  
