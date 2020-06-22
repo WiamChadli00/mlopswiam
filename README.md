@@ -2,11 +2,13 @@
 Fake news detector in Python. Machine learning project using Flask API.
 
 ## Data from Kaggle
-<p>Link: </p>
+<p>Link: https://www.kaggle.com/c/fake-news/data</p>
  
 ## The repository contains:
 <ol>
-	<li><b><i>app.py</i> - main application</b></li>
+	<li><b><i>app.py</i></b> - main application</li>
+	<li><b><i>fake_news_detector_prepare_model.ipynb</i></b> - Jupyter notebook file with models creation</li>
+	<li><b><i>test_data</i></b> - folder with examples of false and real news</li>
     <li><b><i>requirements.txt</i></b> - required libraries to install</li>
 	<li><b><i>Dockerfile</i></b></li>
 </ol>
