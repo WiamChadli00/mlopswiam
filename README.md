@@ -34,5 +34,4 @@ Fake news detector in Python. Machine learning project using Flask API.
 		<b>docker stop containter_name</b>
 	</li>
 </ol>
-
-
+<p>Finish</p>
