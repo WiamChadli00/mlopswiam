@@ -33,7 +33,6 @@ def predict():
         else:
             result = 'fake'
 
-        # return result
         return render_template('index.html', prediction_value=result)
     else:
         error = "Invalid message"
